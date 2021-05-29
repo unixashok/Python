@@ -1,2 +1,1 @@
-print("God")
-print("God is double greate")
+print("God is great")
