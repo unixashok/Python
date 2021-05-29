@@ -1,1 +1,1 @@
-print("God")
+print("God is great")
