@@ -1,7 +1,7 @@
 
 
 
-def add(A,B):
+def add(B,A):
     return A+B
 
 add(5,6)
